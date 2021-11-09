@@ -1,2 +1,2 @@
 # CET-MCA-PYTHON
-Python program exercises
+Programs using python language
