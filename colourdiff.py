@@ -1,0 +1,8 @@
+a=input("enter set of colours seperated by coma")
+b=input("enter another set of colours seperated by coma")
+a=a.split(',')
+b=b.split(',')
+c=set(a)
+d=set(b)
+f=c.difference(d)
+print(f)
